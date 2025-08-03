@@ -1,4 +1,4 @@
 # duckyy
 About me
 
-duckyy223.github.com/duckyy/
+[Direct Link](https://duckyy223.github.io/duckyy/)
