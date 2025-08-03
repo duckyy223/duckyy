@@ -1,0 +1,234 @@
+h1{
+    color: #72d615;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+}
+h4{
+    color: #d61572;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.Memes{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.Memes2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+    img {
+        width: 100px;
+        height: auto;
+    }
+}
+
+.MemesP{
+    color: #1559d6d7;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    text-align: center;
+}
+
+.Memes22{
+    color: #d61572;
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 70px;
+    text-align: center;
+    margin-top: -23px;
+    
+}
+
+.Memes22:hover{
+    transform: scale(1.9);
+}
+
+body {
+    background-color: #000000;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.frase2{
+    color: #15d625d7;
+    font-family: Tahoma, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin-top: -40px;
+}
+
+.Discord{
+    color: #1579d6;
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 70px;
+    text-align: center;
+    margin-top: -23px;
+    
+}
+
+.Discord:hover{
+    transform: scale(1.9);
+}
+
+.frase3{
+    color: #d66215d7;
+    font-family: Tahoma, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.Fortnite{
+    color: #2f00ff;
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 70px;
+    text-align: center;
+    margin-top: -23px;
+    
+}
+
+.Fortnite:hover{
+    transform: scale(1.9);
+}
+
+.Roblox{
+    color: #ff0000;
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 70px;
+    text-align: center;
+    margin-top: -23px;
+    
+}
+
+.Roblox:hover{
+    transform: scale(1.9);
+}
+
+.Minecraft{
+    color: #00ff2a;
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 70px;
+    text-align: center;
+    margin-top: -23px;
+    
+}
+
+.Minecraft:hover{
+    transform: scale(1.9);
+}
+
+.Valorant{
+    color: #a32121;
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 70px;
+    text-align: center;
+    margin-top: -23px;
+    
+}
+
+.Valorant:hover{
+    transform: scale(1.9);
+}
+
+.Memes4{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+    img {
+        width: 170px;
+        height: auto;
+    }
+
+ 
+}
+
+.GorillaTag{
+    color: #21a323;
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 70px;
+    text-align: center;
+    margin-top: -23px;
+    
+}
+
+.GorillaTag:hover{
+    transform: scale(1.9);
+}
+
+.BeatSaber{
+    color: #2139a3;
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 70px;
+    text-align: center;
+    margin-top: -23px;
+    
+}
+
+.BeatSaber:hover{
+    transform: scale(1.9);
+}
+
+.frase4{
+    color: #d66215d7;
+    font-family: Oswald;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.EnlaceYoutube{
+    text-align: center;
+    color: #d61515;
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+.Youtube-logoo:hover{
+    transform: scale(1.9);
+}
+
+.frase5{
+    color: #69d615d7;
+    font-family: Oswald;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 40px;
+}
+ 
+.EnlaceIngles{
+    text-align: center;
+    color: #d61515;
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.EnlaceIngles:hover{
+    transform: scale(1.9);
+}
